@@ -1,0 +1,48 @@
+body{
+	background-color: #A9D0F5;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.div-rigth{
+	margin-top: 50px !important;
+}
+
+
+
+.crop .image-profile{
+	height: 250px;
+	width: 50%;
+	border-radius: 50%;
+	margin-left: 5%;
+}
+
+.div-rigth{
+	overflow: hidden;
+	padding: 30px;
+}
+
+}
+.titles{
+	text-align: center;
+}
+
+table {
+	margin-top: 5%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 437%;
+    margin-bottom: 5%;
+}
+
+td, th {
+    border: 2px solid #3364FF;
+    text-align: left;
+    padding: 10px;
+}
+
+th {
+    background-color: #7293FD;
+    font-weight: bold;
+}
+
+
